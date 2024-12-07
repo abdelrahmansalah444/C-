@@ -1,0 +1,15 @@
+E:\study\C#\ATMSimulator\bin\Debug\net6.0-windows\ATMSimulator.exe
+E:\study\C#\ATMSimulator\bin\Debug\net6.0-windows\ATMSimulator.deps.json
+E:\study\C#\ATMSimulator\bin\Debug\net6.0-windows\ATMSimulator.runtimeconfig.json
+E:\study\C#\ATMSimulator\bin\Debug\net6.0-windows\ATMSimulator.dll
+E:\study\C#\ATMSimulator\bin\Debug\net6.0-windows\ref\ATMSimulator.dll
+E:\study\C#\ATMSimulator\bin\Debug\net6.0-windows\ATMSimulator.pdb
+E:\study\C#\ATMSimulator\obj\Debug\net6.0-windows\ATMSimulator.csproj.AssemblyReference.cache
+E:\study\C#\ATMSimulator\obj\Debug\net6.0-windows\ATMSimulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\C#\ATMSimulator\obj\Debug\net6.0-windows\ATMSimulator.AssemblyInfoInputs.cache
+E:\study\C#\ATMSimulator\obj\Debug\net6.0-windows\ATMSimulator.AssemblyInfo.cs
+E:\study\C#\ATMSimulator\obj\Debug\net6.0-windows\ATMSimulator.csproj.CoreCompileInputs.cache
+E:\study\C#\ATMSimulator\obj\Debug\net6.0-windows\ATMSimulator.dll
+E:\study\C#\ATMSimulator\obj\Debug\net6.0-windows\ref\ATMSimulator.dll
+E:\study\C#\ATMSimulator\obj\Debug\net6.0-windows\ATMSimulator.pdb
+E:\study\C#\ATMSimulator\obj\Debug\net6.0-windows\ATMSimulator.genruntimeconfig.cache
